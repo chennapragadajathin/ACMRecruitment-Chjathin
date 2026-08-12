@@ -1,0 +1,13 @@
+order_id,customer_age,region,sales_amount,discount_pct,is_returned,days_since_last_purchase
+1001,29,North,245.50,10.0,False,12
+1002,41,South,330.00,15.0,True,8
+1003,,East,210.75,,False,20
+1004,36,West,480.25,5.5,False,
+1005,52,North,,12.0,True,15
+1006,28,South,150.00,0.0,False,30
+1007,63,East,675.00,18.0,,14
+1008,44,West,410.50,7.5,False,11
+1009,31,North,295.80,10.5,False,27
+1010,,South,189.99,0.0,True,9
+1011,48,East,540.10,13.0,False,16
+1012,57,West,620.00,9.0,False,19
