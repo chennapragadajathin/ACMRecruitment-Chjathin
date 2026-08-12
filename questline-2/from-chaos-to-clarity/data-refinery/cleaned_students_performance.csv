@@ -1,0 +1,13 @@
+StudentID,Name,Age,Gender,Math_Score,Science_Score,English_Score,Attendance,Pass_Status
+1,Alice,18,F,85.0,90.0,88.0,95,Pass
+2,Bob,17,M,78.0,76.0,82.0,90,Pass
+3,Unknown,19,F,82.0,84.0,79.0,98,Pass
+4,David,18,M,83.0,88.0,80.0,94,Pass
+5,Eve,16,F,70.0,65.0,72.0,88,Fail
+6,Frank,17,M,88.0,91.0,86.0,100,Pass
+7,Grace,18,F,94.0,93.0,95.0,97,Pass
+8,Henry,19,M,60.0,58.0,67.0,80,Fail
+9,Ivy,17,F,87.0,84.0,90.0,91,Pass
+10,Jack,18,M,75.0,72.0,70.0,85,Fail
+11,Kelly,17,F,83.0,79.0,82.0,96,Pass
+12,Alice,18,F,85.0,90.0,88.0,95,Pass
