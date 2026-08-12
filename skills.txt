@@ -1,0 +1,82 @@
+# Skills - ACMRecruitment Project
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- JavaScript/TypeScript
+- Java
+- C++
+
+### Data Science & Analysis
+- Data Exploration
+- Data Cleaning & Preprocessing
+- Data Visualization
+- Statistical Analysis
+- Machine Learning Basics
+
+### Tools & Technologies
+- Git & GitHub
+- Jupyter Notebooks
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- SQL Databases
+
+### Software Development
+- Version Control (Git)
+- Branch Management
+- Merge & Conflict Resolution
+- Commit Best Practices
+- Code Documentation
+
+### Problem Solving
+- Algorithm Design
+- Debugging
+- Logical Thinking
+- Code Optimization
+- Testing & Validation
+
+## Soft Skills
+
+### Communication
+- Documentation Writing
+- Clear Code Comments
+- Technical Explanations
+- Team Collaboration
+
+### Project Management
+- Task Organization
+- Progress Tracking
+- Time Management
+- Goal Setting
+
+### Learning
+- Quick Learner
+- Adaptability
+- Self-Directed Learning
+- Research Skills
+
+## Recruitment Focus Areas
+
+### Data Analysis Pipeline
+- Data acquisition
+- Data transformation
+- Exploratory analysis
+- Insight generation
+
+### Code Quality
+- Clean code principles
+- Proper naming conventions
+- Modular design
+- Comprehensive documentation
+
+### Collaboration
+- Code review participation
+- Peer feedback
+- Conflict resolution
+- Constructive communication
+
+---
+
+*Generated: August 12, 2026*
+*For ACM Recruitment Challenge Platform*
