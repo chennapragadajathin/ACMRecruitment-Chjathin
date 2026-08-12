@@ -1,0 +1,31 @@
+Introduction to ACMRecruitment-Chjathin
+
+This file serves as an introduction to the ACM Recruitment project.
+
+Project Name: ACMRecruitment-Chjathin
+Repository: https://github.com/chennapragadajathin/ACMRecruitment-Chjathin
+
+Overview:
+This project contains a series of challenges organized into questlines, each progressively 
+building on the previous one. The challenges cover various aspects of data analysis, 
+exploration, and insights generation.
+
+Questlines:
+- Questline 1: Foundation and Project Initialization
+- Questline 2: Data Exploration and Refinement
+- Questline 3: Advanced Insights and Architecture
+
+Getting Started:
+1. Clone the repository
+2. Navigate to the relevant questline folder
+3. Follow the README instructions in each challenge
+4. Implement your solutions
+5. Commit your work to the appropriate branch
+
+Repository Structure:
+- questline-1/: Foundation challenges
+- questline-2/: Data processing and exploration
+- questline-3/: Advanced analysis and insights
+
+Created: August 12, 2026
+Author: chennapragadajathin
