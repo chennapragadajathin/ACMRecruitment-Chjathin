@@ -76,7 +76,27 @@
 - Conflict resolution
 - Constructive communication
 
+## Advanced Topics
+
+### Cloud & DevOps
+- Docker containerization
+- Cloud platforms (AWS, GCP, Azure)
+- CI/CD pipelines
+- Infrastructure as Code
+
+### Big Data & Advanced Analytics
+- Distributed computing frameworks
+- Real-time data processing
+- Advanced statistical modeling
+- Predictive analytics
+
+### Web Development
+- Frontend frameworks (React, Vue)
+- Backend APIs (Node.js, Flask, Django)
+- Database design
+- Web security basics
+
 ---
 
-*Generated: August 12, 2026*
+*Generated: August 16, 2026*
 *For ACM Recruitment Challenge Platform*

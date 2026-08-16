@@ -52,6 +52,11 @@ This project showcases the following skills:
 - Effective communication
 - Self-directed learning
 
+### Advanced Topics
+- **Cloud & DevOps:** Docker, containerization, CI/CD pipelines, Infrastructure as Code
+- **Big Data:** Distributed computing, real-time processing, advanced analytics, predictive modeling
+- **Web Development:** Frontend frameworks, backend APIs, database design, web security
+
 *See [skills.txt](skills.txt) for a comprehensive skills list.*
 
 ## Contributing
